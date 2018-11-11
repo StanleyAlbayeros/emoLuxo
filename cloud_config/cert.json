@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emoluxojr",
+  "private_key_id": "fd8e82f8140916cac1df276ffff00f0c74c9d088",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCj3HlEfBNUGOG0\n61Z7OF0lpWiCKvpySyjv7eVxaqR1kXEblt1PwRmpK3umZB4YWPUuGCztDe3u09RK\nh9ak8MEdXs8oUMTLchZq+CELzFOwRlmP5LX8xRLwJguBdTUIDPcieQ14htCvUYoE\nu3/neJ2v3chs1M7R9TiYio7da7KtRiJOu/0/D5kLs9TCZldqjpj2J1Qr6/cNUagA\nP831DRqofVaevf2TlNrPr+Sh43vlk51vZsb8ZCQMOvl2oxs/fjT53aUAbQpkpLoP\nCR7LNoMGnZRCmj7Vek4aILimsPbe0cg9qyo7sHrUZXT8IVALVFKeFrxJXhHn9N0p\nct+HIfVfAgMBAAECggEABuXqhLTCdrASUhk+cCDMqnsexvXDypk+Z5ULBuTFU8KR\nv1Q6MLf4Q4HRwUOqtYb4msdfVV6PZE0cKvrEiBxT8XQVPXd0+7K05wjpfzpLmjF6\n1CpG4ZWXuSWo3Z+qvVs8qG9bunXWc5nTFInHTN4QqVZyeVVD010MCvYwksKxHyJW\nqgN1Uy4r+3+OxYdDwBO1ueQU1E4PdM4yiIEkuHBMGXnGk0rr85/ic+UVdd/rSCx8\nb/S76LHQdRMfKIjKBLwKFhVhH0yRyZbLCI64zXbemhte5dKWgkr72PNBbUl1vVMA\n7qHO+crVZ+odbmPCs0drnBAmTYKHIwEunisRRflLtQKBgQDUDyFdS+cZxTPJHDT0\n6D5ziUYuvY1/OYsLMLYDISVVBWJu3MNYfU00F4JbmEJg4aqVqrWjgAPs9hiZgmLh\nCFZ5EguPHphmury0CWuce5wtKPasCGqoriikJxQDTxyh5zSA3ucHNVXQ8MnYLgQm\n+f1w94qcdZupL6bDjQMDOtQLCwKBgQDF0KSKsdxw4kOFiJ28vDKXULPZ3wM7S2F0\nIwhUcnK1LL5c3y58J+e9Rkglbok1/sTK1K6ouaLUp1D0F2+w54r+6+FMEWhEJ7pu\nvFPY1wNtQfQYLMrYitmN9abFPQMnRm4Lgh3XVQ61zYPuraVwrzWzGSUgg9LWz9Sv\nyrBLjIxTfQKBgD3+OlvC78mZ2/zEETszleZC0FCju3ThBqP71ontq7NCQrd0NGtv\nHh3HbaWHSoh2EF92q2kj6IHio+hktLFitZzpSJXLdPQ7TSU4x8vUWyDco9hBEaVE\nXL84aWJaQ12VcMTn5RQ3ZGITsn5PXYljddMLmusIerwoIRFz7NiJ3ylnAoGABJHf\nWzzkpM71VF5llniaiphYr03Rm0sQg0hT5u+F6t2PwEF/p2qclejLveGh1dd+4Fit\neERhmJwM6Lap4+JVebIlUEaOrBRm4CwFm9rLv3holS5juUDr6bWlFqVkL0IXRLjK\ny7CxWE3ZIGhui/3gNbT9AJVLB59hgHYkQHqMu1kCgYB3r7plb7EtpzksY2wwbMMT\nffmdKFiro6nv2PE5E2YCHnFhkvCDNGvt9VAdJTzy4OwrwE+304ri6ztWPsL15Yoe\nSbKMuth0OpaEFPThkJ8kPyEO+eFT/cl7mMeZL3fYIPz/f44ZmL4Hqhj4DrwH9pg0\nNkNkthSNS+w/ygmZFs9rEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "emoluxojr@emoluxojr.iam.gserviceaccount.com",
+  "client_id": "117418804033167070063",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emoluxojr%40emoluxojr.iam.gserviceaccount.com"
+}
